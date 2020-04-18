@@ -1,0 +1,41 @@
+SMET 1.1 ASCII
+[HEADER]
+station_id       = 9_13
+station_name     = 9_13_dischma
+latitude         = 46.773259
+longitude        = 9.866422
+altitude         = 2131.0
+nodata           = -999
+tz               = 1
+slope_angle      = 33.2489
+slope_azi        = 37.9
+ProfileDate      = 2014-10-01T01:00:00
+HS_Last          = 0.000000
+SlopeAngle       = 33.25
+SlopeAzi         = 37.90
+nSoilLayerData   = 6
+nSnowLayerData   = 0
+SoilAlbedo       = 0.20
+BareSoil_z0      = 0.020
+CanopyHeight     = 1.00
+CanopyLeafAreaIndex = 2.041700
+CanopyDirectThroughfall = 0.06
+CanopySnowIntCapacity = 5.90
+CanopyAlbedoDry  = 0.11
+CanopyAlbedoWet  = 0.11
+CanopyAlbedoSnow = 0.35
+CanopyDiameter   = 1.00
+CanopyFracLAIUpperLayer = 0.50
+CanopyBasalArea  = 0.00
+SoilEmissivity   = 0.00
+WindScalingFactor = 1.00
+ErosionLevel     = 6
+TimeCountDeltaHS = 0.000000
+fields           = timestamp Layer_Thick  T  Vol_Frac_I  Vol_Frac_W  Vol_Frac_V  Vol_Frac_S Rho_S Conduc_S HeatCapac_S  rg  rb  dd  sp  mk mass_hoar ne CDot metamo
+[DATA]
+2000-10-01T00:00:00     2.000000   278.150217     0.000000     0.010000     0.020000     0.970000    2400.0     0.300        900.0 10000.000000   0.000000   0.000000   0.000000      0      0.000000    1        0.000000        0.000000
+2000-10-01T00:00:00     1.000000   278.149503     0.000000     0.010000     0.257970     0.732030    2400.0     0.300        900.0  163.840000   0.000000   0.000000   0.000000      0      0.000000    1        0.000000        0.000000
+2000-10-01T00:00:00     0.500000   278.152593     0.000000     0.010000     0.257970     0.732030    2400.0     0.300        900.0  163.840000   0.000000   0.000000   0.000000      0      0.000000    1        0.000000        0.000000
+2000-10-01T00:00:00     0.250000   278.134432     0.000000     0.010000     0.257970     0.732030    2400.0     0.300        900.0  163.840000   0.000000   0.000000   0.000000      0      0.000000    1        0.000000        0.000000
+2000-10-01T00:00:00     0.150000   278.245422     0.000000     0.010000     0.257970     0.732030    2400.0     0.300        900.0  163.840000   0.000000   0.000000   0.000000      0      0.000000    1        0.000000        0.000000
+2000-10-01T00:00:00     0.100000   277.443827     0.000000     0.010000     0.257970     0.732030    2400.0     0.300        900.0  163.840000   0.000000   0.000000   0.000000      0      0.000000    1        0.000000        0.000000

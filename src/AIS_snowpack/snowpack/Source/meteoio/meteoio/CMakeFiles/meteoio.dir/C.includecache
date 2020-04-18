@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/projects/erke2265/src/AIS_snowpack/snowpack/Source/meteoio/meteoio/thirdParty/tinyexpr.c
+tinyexpr.h
+/projects/erke2265/src/AIS_snowpack/snowpack/Source/meteoio/meteoio/thirdParty/tinyexpr.h
+stdlib.h
+-
+math.h
+-
+string.h
+-
+stdio.h
+-
+limits.h
+-
+
+/projects/erke2265/src/AIS_snowpack/snowpack/Source/meteoio/meteoio/thirdParty/tinyexpr.h
+
