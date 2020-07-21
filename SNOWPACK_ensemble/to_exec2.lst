@@ -1,0 +1,10 @@
+/usr/bin/time -v /projects/erke2265/src/AIS_snowpack/usr/bin/snowpack -r -c run.ini -e 2017-12-31T23:30:00 >> ../output/log.txt 2>&1
+/usr/bin/time -v /projects/erke2265/src/AIS_snowpack/usr/bin/snowpack -r -c run.ini -e 2017-12-31T23:30:00 >> ../output/log.txt 2>&1
+/usr/bin/time -v /projects/erke2265/src/AIS_snowpack/usr/bin/snowpack -r -c run.ini -e 2017-12-31T23:30:00 >> ../output/log.txt 2>&1
+/usr/bin/time -v /projects/erke2265/src/AIS_snowpack/usr/bin/snowpack -r -c run.ini -e 2017-12-31T23:30:00 >> ../output/log.txt 2>&1
+/usr/bin/time -v /projects/erke2265/src/AIS_snowpack/usr/bin/snowpack -r -c run.ini -e 2017-12-31T23:30:00 >> ../output/log.txt 2>&1
+/usr/bin/time -v /projects/erke2265/src/AIS_snowpack/usr/bin/snowpack -r -c run.ini -e 2017-12-31T23:30:00 >> ../output/log.txt 2>&1
+/usr/bin/time -v /projects/erke2265/src/AIS_snowpack/usr/bin/snowpack -r -c run.ini -e 2017-12-31T23:30:00 >> ../output/log.txt 2>&1
+/usr/bin/time -v /projects/erke2265/src/AIS_snowpack/usr/bin/snowpack -r -c run.ini -e 2017-12-31T23:30:00 >> ../output/log.txt 2>&1
+/usr/bin/time -v /projects/erke2265/src/AIS_snowpack/usr/bin/snowpack -r -c run.ini -e 2017-12-31T23:30:00 >> ../output/log.txt 2>&1
+/usr/bin/time -v /projects/erke2265/src/AIS_snowpack/usr/bin/snowpack -r -c run.ini -e 2017-12-31T23:30:00 >> ../output/log.txt 2>&1

@@ -1,0 +1,10 @@
+cd /projects/erke2265/1D_Snowpack/Simulations/SNOWPACK_ensemble/SP/input/
+cd /projects/erke2265/1D_Snowpack/Simulations/SNOWPACK_ensemble/SP_cold/input/
+cd /projects/erke2265/1D_Snowpack/Simulations/SNOWPACK_ensemble/SP_high/input/
+cd /projects/erke2265/1D_Snowpack/Simulations/SNOWPACK_ensemble/SP_low/input/
+cd /projects/erke2265/1D_Snowpack/Simulations/SNOWPACK_ensemble/SP_warm/input/
+cd /projects/erke2265/1D_Snowpack/Simulations/SNOWPACK_ensemble/WAIS/input/
+cd /projects/erke2265/1D_Snowpack/Simulations/SNOWPACK_ensemble/WAIS_cold/input/
+cd /projects/erke2265/1D_Snowpack/Simulations/SNOWPACK_ensemble/WAIS_high/input/
+cd /projects/erke2265/1D_Snowpack/Simulations/SNOWPACK_ensemble/WAIS_low/input/
+cd /projects/erke2265/1D_Snowpack/Simulations/SNOWPACK_ensemble/WAIS_warm/input/

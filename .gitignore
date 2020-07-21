@@ -1,0 +1,7 @@
+# Dont track these file extensions
+*.nc
+*.smet*
+*.sno*
+*.pro*
+*.haz*
+*.out*
