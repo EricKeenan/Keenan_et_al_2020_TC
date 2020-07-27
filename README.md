@@ -4,9 +4,19 @@ All software and code required to reproduce SNOWPACK simulations and analysis pr
 ## SNOWPACK Simulations
 SNOWPACK model source code can be accessed at https://github.com/snowpack-model/snowpack, while the precise version used in this study can be accessed at https://doi.org/10.5281/zenodo.3891846. 
 
-Automatic weather stations:
+**Automatic weather stations:**
+```
+cd Executables/
+bash snowpack_point.sh
+sbatch AWS_to_exec.sbatch
+```
 
-Surface temperature proxies:
+**Surface temperature proxies:**
+```
+cd Executables/
+bash ice_core_snowpack_point.sh
+sbatch ice_core_to_exec.sbatch
+```
 
 **SNOWPACK ensemble:**
 ```
@@ -16,7 +26,12 @@ bash run.sh
 sbatch job.sbatch
 ```
 
-Near-surface density: 
+**Near-surface density:**
+```
+cd Executables/
+bash profile_snowpack_point.sh
+sbatch to_exec_spinup.sbatch
+```
 
 **South Pole and West Antarctic Ice Sheet Divide firn properties:**
 
