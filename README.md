@@ -22,22 +22,22 @@ South Pole and West Antarctic Ice Sheet Divide firn properties:
 
 
 ## Model Ananlysis
-Figure 1:
+Figure 1: Figure created in powerpoint. No code. 
 
-Figure 2: 
+Figure 2: `Model_Analysis/Map_Evaluation_Locations.ipynb`
 
-Figure 3: 
+Figure 3: `Model_Analysis/ice_core_model_comparison.ipynb`
 
-Figure 4: 
+Figure 4: `Model_Analysis/SNOWPACK_ensemble.ipynb`
 
-Figure 5:
+Figure 5: `Model_Analysis/Plot_Density_Profile_Comparison.ipynb`
 
-Figure 6:
+Figure 6: `Model_Analysis/Plot_Density_Profile_Comparison.ipynb`
 
-Figure 7:
+Figure 7: `Model_Analysis/Plot_Density_Profile_Comparison.ipynb`
 
-Figure 8: 
+Figure 8: `Model_Analysis/Plot_Density_Profile_Comparison.ipynb`
 
-Figure 9: 
+Figure 9: `Model_Analysis/SNOWPACK_demo_figure.ipynb`
 
-Figure A1: 
+Figure A1: `Model_Analysis/MERRA2_AWS_ILWR_ISWR.ipynb` 
