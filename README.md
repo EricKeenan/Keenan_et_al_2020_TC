@@ -8,7 +8,13 @@ Automatic weather stations:
 
 Surface temperature proxies:
 
-SNOWPACK ensemble:
+**SNOWPACK ensemble:**
+```
+cd SNOWPACK_ensemble/
+bash setup.sh
+bash run.sh
+sbatch job.sbatch
+```
 
 Near-surface density: 
 
