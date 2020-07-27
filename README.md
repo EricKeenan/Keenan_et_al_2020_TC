@@ -18,7 +18,9 @@ sbatch job.sbatch
 
 Near-surface density: 
 
-South Pole and West Antarctic Ice Sheet Divide firn properties: 
+**South Pole and West Antarctic Ice Sheet Divide firn properties:**
+
+These simulations are taken from the Near-surface density simulations. 
 
 
 ## Model Ananlysis
