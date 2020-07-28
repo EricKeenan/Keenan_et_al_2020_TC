@@ -3,6 +3,8 @@
 # Keenan_et_al_2020_TC
 All software and code required to reproduce SNOWPACK simulations and analysis presented in [*Keenan et. al., 2020 The Cryosphere Discussions*](https://tc.copernicus.org/preprints/tc-2020-175/). 
 
+Ancillary data sets (e.g. masks, SNOWPACK atmospheric forcing, etc) needed to fully executue these repository, but to large to host on github, can be retrieved from [Dropbox](https://www.dropbox.com/sh/040os454eahw6ga/AACg7MkeRBTsEgHg1eF3DYSta?dl=0). 
+
 ## SNOWPACK Simulations
 SNOWPACK model source code can be accessed at https://github.com/snowpack-model/snowpack, while the precise version used in this study can be accessed at https://doi.org/10.5281/zenodo.3891846. 
 
