@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EricKeenan/Keenan_et_al_2020_TC/master)
+
 # Keenan_et_al_2020_TC
 All software and code required to reproduce SNOWPACK simulations and analysis presented in [*Keenan et. al., 2020 The Cryosphere Discussions*](https://tc.copernicus.org/preprints/tc-2020-175/). 
 
